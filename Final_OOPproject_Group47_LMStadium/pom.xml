@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                com.group47.main_pkg.final_oopproject_group47_lmstadium/com.group47.main_pkg.final_oopproject_group47_lmstadium.HelloApplication
+                                com.group47.main_pkg.final_oopproject_group47_lmstadium/com.group47.main_pkg.final_oopproject_group47_lmstadium.MainApplicationClass
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
